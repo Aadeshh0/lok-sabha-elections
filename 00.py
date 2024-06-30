@@ -32,11 +32,12 @@ insights = []
 
 most_seats = df.loc[df['Won'].idxmax()]
 # insights.append(f'The party with most seats is {most_seats['Party']} with {most_seats['Won']}')
-insights.append(f"The party with most seats is {most_seats['Party']} with {most_seats['Won']}")
+insights.append(f"The party with most seats is {most_seats['Party']} with {most_seats['Won']} seats.")
 
 for i, insights in enumerate(insights, 1):
-    print('insights {i}: {insight}')
+    print(f"insights {i}: {insights}")
 
 with open('lok_sabha_elections.txt', 'w') as f:
     for i, insights in enumerate(insights, 1):
-        f.write('Insight{i}:{insights}')
+        f.write(f"Insight{i}:{insights}")
+
