@@ -8,4 +8,4 @@ BAR GRAPH:
 
 PIE CHART:
 
-![Alt text](<images/proportion_seats_top_3.png>)
+![Alt text](<images/seats_won_top_5.png>)
