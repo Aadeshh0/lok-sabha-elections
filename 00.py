@@ -195,7 +195,7 @@ with open('lok_sabha_elections_insights.txt', 'w') as f:
 # Data Visualization
 
 # Ensure the images directory exists
-images_dir = 'kalvium_task/images'
+images_dir = 'images'
 os.makedirs(images_dir, exist_ok=True)
 
 # 1. Bar plot of seats won by each party
