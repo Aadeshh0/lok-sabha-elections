@@ -3,9 +3,9 @@ This is the lok sabha elections result and report. It consists of detailed analy
 
 BAR GRAPH:
 
-![Alt text](<seats_won_by_party.png>)
+![Alt text](<images/seats_won_by_party.png>)
 
 
 PIE CHART:
 
-![Alt text](proportion_seats_top_3.png)
+![Alt text](images/proportion_seats_top_3.png)
