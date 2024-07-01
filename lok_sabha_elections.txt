@@ -1,1 +1,10 @@
-Insight1:TInsight2:hInsight3:eInsight4: Insight5:pInsight6:aInsight7:rInsight8:tInsight9:yInsight10: Insight11:wInsight12:iInsight13:tInsight14:hInsight15: Insight16:mInsight17:oInsight18:sInsight19:tInsight20: Insight21:sInsight22:eInsight23:aInsight24:tInsight25:sInsight26: Insight27:iInsight28:sInsight29: Insight30:BInsight31:hInsight32:aInsight33:rInsight34:aInsight35:tInsight36:iInsight37:yInsight38:aInsight39: Insight40:JInsight41:aInsight42:nInsight43:aInsight44:tInsight45:aInsight46: Insight47:PInsight48:aInsight49:rInsight50:tInsight51:yInsight52: Insight53:-Insight54: Insight55:BInsight56:JInsight57:PInsight58: Insight59:wInsight60:iInsight61:tInsight62:hInsight63: Insight64:2Insight65:4Insight66:0Insight67:.Insight68:0Insight69: Insight70:sInsight71:eInsight72:aInsight73:tInsight74:sInsight75:.
+Insight 1: The party with most seats is Bharatiya Janata Party - BJP with 240.0 seats.
+Insight 2: The party with the highest total (won + leading) is Bharatiya Janata Party - BJP with 240.0 seats.
+Insight 3: There are 7 parties with more than 10 seats.
+Insight 4: The total seats won by the top 3 parties are 376.0.
+Insight 5: The average seats won by all parties are 12.93.
+Insight 6: There are 0 parties with no seats won.
+Insight 7: The total number of parties contesting the election is 43.
+Insight 8: The party with the smallest number of seats won is United People’s Party, Liberal - UPPL with 1.0 seats.
+Insight 9: The proportion of seats won by the largest party is 44.20%.
+Insight 10: There are 0 parties with more seats leading than won.
