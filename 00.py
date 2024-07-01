@@ -168,7 +168,7 @@ print("\nMaharashtra Results Table:")
 print(df_party_wise)
 
 # Save party-wise results to CSV
-df_party_wise.to_csv('lok_sabha_party_wise_results.csv', index=False)
+df_party_wise.to_csv('party_wise_results.csv', index=False)
 
 # Insight 11: Party with the most seats in the party-wise results
 if not df_party_wise.empty:
@@ -187,7 +187,7 @@ if not df_party_wise.empty:
 for i, insight in enumerate(insights, 1):
     print(f"Insight {i}: {insight}")
 
-with open('lok_sabha_elections_insights.txt', 'w') as f:
+with open('elections_insights.txt', 'w') as f:
     for i, insight in enumerate(insights, 1):
         f.write(f"Insight {i}: {insight}\n")
 
